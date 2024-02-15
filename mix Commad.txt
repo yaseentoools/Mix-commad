@@ -1,0 +1,100 @@
+file create commad.
+
+rm -rf Hannan-404
+git clone https://github.com/Hannan-404/FILE
+cd FILE
+python FILE.py
+
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+rm -rf Matro 
+
+git clone https://github.com/Sapeedo/Matro.git
+
+cd Matro
+
+python waqas.py
+
+
+setup Commad.
+apt update
+apt upgrade
+apt install python
+apt install git
+apt install bs4
+apt install requests
+apt install mechanize
+apt install pip
+apt install pip2
+
+pkg update
+pkg upgrade
+pkg install python
+pkg install git
+pip install requests
+pip install mechanize
+pip install bs4 futures
+pip install rich
+termux-setup-storage
+pip install pycurl
+
+
+termux-setup-storage
+pkg update -y
+pkg upgrade -y
+pkg install git -y
+pkg install python -y
+pkg install python2 -y
+python3 -m pip install --upgrade pip
+pip install requests
+pip install mechanize
+pip install future
+pip install rich
+pip install bs4
+
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+rm -rf FB-DEVIL
+git clone https://github.com/ZOMBIE-404/FB-DEVIL.git
+
+cd FB-DEVIL
+
+python FB-DEVIL.py
+
+
+instgram commad
+pip install rich
+termux-setup-storage
+pip install pycurl
+rm -rf Instagram
+git clone https://github.com/YounisXyz/Instagram
+cd Instagram
+python Insta.py
+
+
+
+
+
+
+
+
+
+
+Whatsapp group 👇
+<=====================>
+https://chat.whatsapp.com/I8lDwpjr7L1Jql60UhIXep
+<=====================>
+*UPDATE DONE*
+*Version 6.8*
+*File+gmail+random*
+*File Method*
+*Method 1 or 2*
+
+
+*Random ALL update*
+<=====================>
+<=====================>
+*COMMND*👇👇
+
+
+
